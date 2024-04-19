@@ -4,8 +4,7 @@ const populateMenu = () => {
     
     fetch('includes/data/engravings.json')
         .then(response => response.json())
-        .then(data => {
-            let engravings = data;
+        .then(engravings => {
             let engravingHTML = '';
             engravings.forEach(engraving => {
                 engravingHTML += `
