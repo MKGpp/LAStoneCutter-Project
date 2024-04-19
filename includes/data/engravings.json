@@ -1,0 +1,303 @@
+[
+    {
+      "Name": "Adrenaline",
+      "Icon": "includes/images/adrenaline.png",
+      "id": "adrenaline",
+      "imgID": "adrenalineImage",
+      "desc": "After using skills (excluding movement skills and basic attacks), gains +0.3% / 0.6% / 1% Atk. Power for 6 seconds, stacking up to 6 times, up to a maximum of 1.8% / 3.6% / 6% Atk. Power. At maximum stacks, Crit Rate +5% / 10% / 15%. If Cooldown reduction due to skill cancel is applied to this effect, it is applied after the end of the skill."
+    },
+    {
+      "Name": "All-Out Attack",
+      "Icon": "includes/images/all_out_attack.png",
+      "id": "allOutAttack",
+      "imgID": "allOutAttackImage",
+      "desc": "Holding and Casting skill speed +5% / 10% / 20% and damage +4% / 10% / 20%."
+    },
+    {
+      "Name": "Ambush Master",
+      "Icon": "includes/images/ambush_master.png",
+      "id": "ambushMaster",
+      "imgID": "ambushMasterImage",
+      "desc": "Damage +5% / 12% / 25% for successful back attacks."
+    },
+    {
+      "Name": "Awakening",
+      "Icon": "includes/images/awakening.png",
+      "id": "awakening",
+      "imgID": "awakeningImage",
+      "desc": "Awakening Skill Cooldown -10% / 25% / 50% and +1 / 2 / 3 maximum use."
+    },
+    {
+      "Name": "Barricade",
+      "Icon": "includes/images/barricade.png",
+      "id": "barricade",
+      "imgID": "barricadeImage",
+      "desc": "Damage to foes while shielded +3% / 8% / 16%."
+    },
+    {
+      "Name": "Broken Bone",
+      "Icon": "includes/images/broken_bone.png",
+      "id": "brokenBone",
+      "imgID": "brokenBoneImage",
+      "desc": "Damage to staggered foes +7.5% / 20% / 40%."
+    },
+    {
+      "Name": "Contender",
+      "Icon": "includes/images/contender.png",
+      "id": "contender",
+      "imgID": "contenderImage",
+      "desc": "Atk. Power +1% / 1.5% / 2.5% for 15 / 25 / 40 seconds after killing a foe. Stacks up to 5 / 6 / 7 times, for a maximum of +5% / 9% / 17.5% Atk. Power."
+    },
+    {
+      "Name": "Crisis Evasion",
+      "Icon": "includes/images/crisis_evasion.png",
+      "id": "crisisEvasion",
+      "imgID": "crisisEvasionImage",
+      "desc": "When receiving fatal damage, become invincible for 3 seconds, recovering 50% of the damage taken during invincibility as HP (15 / 12 / 9 minute cooldown)."
+    },
+    {
+      "Name": "Crushing Fist",
+      "Icon": "includes/images/crushing_fist.png",
+      "id": "crushingFist",
+      "imgID": "crushingFistImage",
+      "desc": "On successful Counter Attack, Atk. Power +4% / 10% / 20%. For 3 seconds Countered target takes +2% / 4% / 8% damage from all party members."
+    },
+    {
+      "Name": "Cursed Doll",
+      "Icon": "includes/images/cursed_doll.png",
+      "id": "cursedDoll",
+      "imgID": "cursedDollImage",
+      "desc": "Atk. Power +3% / 8% / 16%, Healing -25%, natural recovery excluded."
+    },
+    {
+      "Name": "Disrespect",
+      "Icon": "includes/images/disrespect.png",
+      "id": "disrespect",
+      "imgID": "disrespectImage",
+      "desc": "Damage +9% / 22% / 36% to foes with 30% or lower HP."
+    },
+    {
+      "Name": "Divine Protection",
+      "Icon": "includes/images/divine_protection.png",
+      "id": "divineProtection",
+      "imgID": "divineProtectionImage",
+      "desc": "When attacked, there is a 20% chance of activing Divine Protection which reduces the damage received by 60% (60 / 20 / 10 second cooldown)."
+    },
+    {
+      "Name": "Drops of Ether",
+      "Icon": "includes/images/drops_of_ether.png",
+      "id": "dropsOfEther",
+      "imgID": "dropsOfEtherImage",
+      "desc": "Hitting an enemy has a chance to create a random Ether within 8 meters that the player or their ally can collect to trigger an effect (60 / 30 / 10 second cooldown)."
+    },
+    {
+      "Name": "Emergency Rescue",
+      "Icon": "includes/images/emergency_rescue.png",
+      "id": "emergencyRescue",
+      "imgID": "emergencyRescueImage",
+      "desc": "When HP falls below 30%, gain a shield equal to 20% / 30% / 50% of Max HP for 6 seconds. If the shield is not destroyed after 6 seconds, recover 50% of the remaining shield as HP (300 / 240 / 180 second cooldown)."
+    },
+    {
+      "Name": "Enhanced Shield",
+      "Icon": "includes/images/enhanced_shield.png",
+      "id": "enhancedShield",
+      "imgID": "enhancedShieldImage",
+      "desc": "Become immune to all Status Debuffs while affected by shields, but -90% / 75% / 50% Shields' HP and Defensive Stance's Damage absorption amounts (does not apply to Battlefield Shield)."
+    },
+    {
+      "Name": "Ether Predator",
+      "Icon": "includes/images/ether_predator.png",
+      "id": "etherPredator",
+      "imgID": "etherPredatorImage",
+      "desc": "Attacking a foe creates an Ether that only you can collect (10 second cooldown). Collecting the Ether grants 1 stack for 90 seconds. Chance on Ether collection to increases the stack by 3. Each stack grants Atk. Power +0.2% / 0.3% / 0.5% and All Defense +0.3% / 0.6% / 1%."
+    },
+    {
+      "Name": "Expert",
+      "Icon": "includes/images/expert.png",
+      "id": "expert",
+      "imgID": "expertImage",
+      "desc": "Shield and Healing effectiveness on all Party Members +6% / 14% / 24%. If target's HP is 50% or lower, +3% / 7% / 12% additional effectiveness."
+    },
+    {
+      "Name": "Explosive Expert",
+      "Icon": "includes/images/explosive_expert.png",
+      "id": "explosiveExpert",
+      "imgID": "explosiveExpertImage",
+      "desc": "Bomb and grenade Battle Item carrying limit +1 / 2 / 3."
+    },
+    {
+      "Name": "Fortitude",
+      "Icon": "includes/images/fortitude.png",
+      "id": "fortitude",
+      "imgID": "fortitudeImage",
+      "desc": "Incoming Damage is reduced proportional to HP lost, up to a maximum of 5% / 15% / 30%."
+    },
+    {
+      "Name": "Grudge",
+      "Icon": "includes/images/grudge.png",
+      "id": "grudge",
+      "imgID": "grudgeImage",
+      "desc": "Damage +4% / 10% / 20% to Boss or above monsters. All incoming damage +20%."
+    },
+    {
+      "Name": "Heavy Armor",
+      "Icon": "includes/images/heavy_armor.png",
+      "id": "heavyArmor",
+      "imgID": "heavyArmorImage",
+      "desc": "All Defense +20% / 50% / 100%. This additional Defense is immune to Defense Reduction effects."
+    },
+    {
+      "Name": "Hit Master",
+      "Icon": "includes/images/hit_master.png",
+      "id": "hitMaster",
+      "imgID": "hitMasterImage",
+      "desc": "Damage of attacks other than Back Attack and Frontal Attack +3% / 8% / 16%. Does not apply to Awakening Skills."
+    },
+    {
+      "Name": "Keen Blunt Weapon",
+      "Icon": "includes/images/keen_blunt_weapon.png",
+      "id": "keenBluntWeapon",
+      "imgID": "keenBluntWeaponImage",
+      "desc": "+10% / 25% / 50% Crit Damage but your attacks have a 10% chance to deal damage -20%."
+    },
+    {
+      "Name": "Lightning Fury",
+      "Icon": "includes/images/lightning_fury.png",
+      "id": "lightningFury",
+      "imgID": "lightningFuryImage",
+      "desc": "Attacks have a 60% chance of generating a lightning orb. These lightning orbs can only be generated once every 4 / 2 / 1 seconds. When 5 orbs are created, they explode and damage surrounding foes."
+    },
+    {
+      "Name": "Magick Stream",
+      "Icon": "includes/images/magick_stream.png",
+      "id": "magickStream",
+      "imgID": "magickStreamImage",
+      "desc": "Stacks up to +5% / 10% / 15% MP Recovery every 3 seconds while you are not attacked. When the maximum stack is reached, skill Cooldown -3% / 6% / 10%. Being hit removes 1 stack of the effect with a cooldown of 10 seconds"
+    },
+    {
+      "Name": "Mass Increase",
+      "Icon": "includes/images/mass_increase.png",
+      "id": "massIncrease",
+      "imgID": "massIncreaseImage",
+      "desc": "Atk. Power +4% / 10% / 18%, Atk. Speed -10%."
+    },
+    {
+      "Name": "Master Brawler",
+      "Icon": "includes/images/master_brawler.png",
+      "id": "masterBrawler",
+      "imgID": "masterBrawlerImage",
+      "desc": "Damage +5% / 12% / 25% for successful frontal attacks."
+    },
+    {
+      "Name": "Master of Escape",
+      "Icon": "includes/images/master_of_escape.png",
+      "id": "masterOfEscape",
+      "imgID": "masterOfEscapeImage",
+      "desc": "Stand Up Action Cooldown -4% / 12% / 25%."
+    },
+    {
+      "Name": "Master's Tenacity",
+      "Icon": "includes/images/masters_tenacity.png",
+      "id": "mastersTenacity",
+      "imgID": "mastersTenacityImage",
+      "desc": "Outgoing damage +3% / 8% / 16% at 50% or lower HP."
+    },
+    {
+      "Name": "Max MP Increase",
+      "Icon": "includes/images/max_mp_increase.png",
+      "id": "maxMPIncrease",
+      "imgID": "maxMPIncreaseImage",
+      "desc": "Max MP +5% / 15% / 30%."
+    },
+    {
+      "Name": "MP Efficiency Increase",
+      "Icon": "includes/images/mp_efficiency_increase.png",
+      "id": "mpEfficiencyIncrease",
+      "imgID": "mpEfficiencyIncreaseImage",
+      "desc": "MP Recovery +5% / 15% / 30%. When MP is at 50% or below, damage to foes +3% / 6% / 12%."
+    },
+    {
+      "Name": "Necromancy",
+      "Icon": "includes/images/necromancy.png",
+      "id": "necromancy",
+      "imgID": "necromancyImage",
+      "desc": "Attacks summon temporary soldiers that damage foes (75 / 30 / 15 second cooldown)."
+    },
+    {
+      "Name": "Precise Dagger",
+      "Icon": "includes/images/precise_dagger.png",
+      "id": "preciseDagger",
+      "imgID": "preciseDaggerImage",
+      "desc": "Crit Rate +4% / 10% / 20%, Crit Damage -12%."
+    },
+    {
+      "Name": "Preemptive Strike",
+      "Icon": "includes/images/preemptive_strike.png",
+      "id": "preemptiveStrike",
+      "imgID": "preemptiveStrikeImage",
+      "desc": "When attacking Challenge or lower monsters with full HP, your attack is a guaranteed crit with +30% / 80% / 160% damage."
+    },
+    {
+      "Name": "Propulsion",
+      "Icon": "includes/images/propulsion.png",
+      "id": "propulsion",
+      "imgID": "propulsionImage",
+      "desc": "After using a Movement Skill, damage of skills (excluding Basic Attack and Awakening Skills) +3% / 8% / 16% for 5 seconds."
+    },
+    {
+      "Name": "Raid Captain",
+      "Icon": "includes/images/raid_captain.png",
+      "id": "raidCaptain",
+      "imgID": "raidCaptainImage",
+      "desc": "Outgoing damage +10% / 22% / 45% of basic Move Speed bonus percentage."
+    },
+    {
+      "Name": "Shield Piercing",
+      "Icon": "includes/images/shield_piercing.png",
+      "id": "shieldPiercing",
+      "imgID": "shieldPiercingImage",
+      "desc": "Damage to shields +16% / 50% / 100%."
+    },
+    {
+      "Name": "Sight Focus",
+      "Icon": "includes/images/sight_focus.png",
+      "id": "sightFocus",
+      "imgID": "sightFocusImage",
+      "desc": "When &quot;!!!!!&quot; is entered into normal chat, Sight Focus is activated for 6 seconds (30 second cooldown). After the effect is activated, offensive skill damage +8% / 16% / 28%. Only half of the effect is applied to Awakening Skills (4% / 8% / 14%). Does not apply to Basic Attack."
+    },
+    {
+      "Name": "Spirit Absorption",
+      "Icon": "includes/images/spirit_absorption.png",
+      "id": "spiritAbsorption",
+      "imgID": "spiritAbsorptionImage",
+      "desc": "Atk. Speed and Move Speed +3% / 8% / 15%."
+    },
+    {
+      "Name": "Stabilized Status",
+      "Icon": "includes/images/stabilized_status.png",
+      "id": "stabilizedStatus",
+      "imgID": "stabilizedStatusImage",
+      "desc": "Damage +3% / 8% / 16% when your HP is above 80%."
+    },
+    {
+      "Name": "Strong Will",
+      "Icon": "includes/images/strong_will.png",
+      "id": "strongWill",
+      "imgID": "strongWillImage",
+      "desc": "Incoming damage -5% / 15% / 30% while Pushed."
+    },
+    {
+      "Name": "Super Charge",
+      "Icon": "includes/images/super_charge.png",
+      "id": "superCharge",
+      "imgID": "superChargeImage",
+      "desc": "Charge skills' charging speed +8% / 20% / 40% and damage +4% / 10% / 20%."
+    },
+    {
+      "Name": "Vital Point Hit",
+      "Icon": "includes/images/vital_point_hit.png",
+      "id": "vitalPointHit",
+      "imgID": "vitalPointHitImage",
+      "desc": "Stagger attack effectiveness +6% / 18% / 36%."
+    }
+  ]
